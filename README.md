@@ -1,3 +1,3 @@
-# 6g firewall
+# 6G Firewall 2016
 
-https://perishablepress.com/6g/
+by: https://perishablepress.com/6g/
